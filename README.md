@@ -16,32 +16,32 @@ AndroidDevTools
 
 1. 中国科学院开源协会镜像站地址:
 
-   * IPV4/IPV6: `http://mirrors.opencas.cn` 端口：80
+   * IPV4/IPV6: `mirrors.opencas.cn` 端口：80
 
-   * IPV4/IPV6: `http://mirrors.opencas.org` 端口：80
+   * IPV4/IPV6: `mirrors.opencas.org` 端口：80
 
-   * IPV4/IPV6: `http://mirrors.opencas.ac.cn` 端口：80
+   * IPV4/IPV6: `mirrors.opencas.ac.cn` 端口：80
 
 	
 1. 上海GDG镜像服务器地址:
 
-	* `http://sdk.gdgshanghai.com `  端口：8000	
+	* `sdk.gdgshanghai.com `  端口：8000	
 
 1. 北京化工大学镜像服务器地址: 
    	
-   * IPv4: `http://ubuntu.buct.edu.cn/` 端口：80
+   * IPv4: `ubuntu.buct.edu.cn/` 端口：80
    
-   * IPv4: `http://ubuntu.buct.cn/`   端口：80
+   * IPv4: `ubuntu.buct.cn/`   端口：80
    
-   * IPv6: `http://ubuntu.buct6.edu.cn/`  端口：80
+   * IPv6: `ubuntu.buct6.edu.cn/`  端口：80
 	
 1. 大连东软信息学院镜像服务器地址: 
 
-	* `http://mirrors.neusoft.edu.cn` 端口：80
+	* `mirrors.neusoft.edu.cn` 端口：80
 
 1. 腾讯Bugly 镜像:
 
-	* `http://android-mirror.bugly.qq.com` 端口：8080
+	* `android-mirror.bugly.qq.com` 端口：8080
 
 	腾讯镜像使用方法: [http://android-mirror.bugly.qq.com:8080/include/usage.html](http://android-mirror.bugly.qq.com:8080/include/usage.html)
 
@@ -58,119 +58,177 @@ AndroidDevTools
 ####Android Studio
 | 版本号  |   Windows         |       Mac OSX     |       Linux     |       SHA-1校验码     |       官方SHA-1校验码截图     |
 |:------:|:--------------:|:-----------------:|:------------------:|:------------------|:------------------:|
-|  1.5 Preview 2 | [下载][1.5-p2-win] | [下载][1.5-p2-mac] | [下载][1.5-p2-linux] | Win: c2cee3431c46f5ed0a8d63b782dda03ea47a01b8 <br/> Mac:  4597821e2a5c77d6746d834d78aeacb198d698ee <br/> Linux:  2730200226c35f2fb19ffbf1e24275478cab69d6 |  [查看][1.5-p2-sha1] |
-|  1.5 Preview 1 | [下载][1.5-p1-win] | [下载][1.5-p1-mac] | [下载][1.5-p1-linux] | Win: 0451f37afbedde5f902b32ca3fc1a6347ff2c399 <br/> Mac:  2c22b58ff6158cd90bbad54aefeb273f632df3c0 <br/> Linux:  acdae82efe8e4c0b4f903764b50c7064d47c7910 |  [查看][1.5-p1-sha1] |
-|  1.4 | [下载][1.4-win] | [下载][1.4-mac] | [下载][1.4-linux] | Win: a2f0141d35f8f0c24dad2ff390e7f6231c5f7625 <br/> 82d0d9c78ec23834956f941a07821be347fcb7bf <br/> c0851dc9a506ba9f4c1379a3e9b4019c08478220 <br/> Mac:  27068d59d5a78717d31bdedd054082b5c50d3897 <br/> d99c4b3efce46edba97a2cb8f53fc62d267b9015 <br/> Linux: 137e3734f2e8e285bd7c1d2fae2e8548d0f164bd  | [查看][1.4-sha1]  |
-|  1.4 RC3 | [下载][1.4-rc3-win] | [下载][1.4-rc3-mac] | [下载][1.4-rc3-linux] |  Win: 8f0ef33afb026b6cb513c8736c8218584f5721da <br/> Mac: 5a2f5bb23511e2422b9268ef234503cc6bc887b6 <br/>Linux: 8aa32a4603c576d7b4691c34028e3e97490b5dfd |  [查看][1.4-rc3-sha1] |
-|  1.4 RC2 | [下载][1.4-rc2-win] | [下载][1.4-rc2-mac] | [下载][1.4-rc2-linux] |  Win: 0ba2a568e74cd6c5e24608db7665392feeb46dba <br/> Mac: 1736ba5ff1779ea762e42c60300985748652af30 <br/>Linux: 9976f16d6183f907229a84c48ac185259bd1b115 |  [查看][1.4-rc2-sha1] |
-|  1.4 RC1 | [下载][1.4-rc1-win] | [下载][1.4-rc1-mac] | [下载][1.4-rc1-linux] |  Win: abc3144bae19459a87fe42056e13dc9508e08266 <br/> Mac: 8cd5a56139abe2661bd1315502449014e40d0c59 <br/>Linux: 2ddbd659221df5396535cfedc6305c1fb5a3c7ba |  [查看][1.4-rc1-sha1] |
-|  1.4 Beta4 | [下载][1.4-beta4-win] | [下载][1.4-beta4-mac] | [下载][1.4-beta4-linux] |Win: cae242811dd4c61a4eaa20b9ba5f1d95b1720cd8 <br/> Mac: d529c563c217afcad042d6e8428ba7196a1e4bd2 <br/> Linux: 38999c08fb8093ec118bf52b93587743c954c648 |  [查看][1.4-beta4-sha1] |
-|  1.4 Beta3 | [下载][1.4-beta3-win] | [下载][1.4-beta3-mac] | [下载][1.4-beta3-linux] | Win: ec2a401632011ccba5aef3370395285b615ec23a <br/> Mac: 45092982541590f3d99012626081db2ac189e222 <br/> Linux: 000c98423b2ec7b6b622fc2d0d79a54de810414e | [查看][1.4-beta3-sha1]  |
-|  1.4 Beta2 | [下载][1.4-beta2-win] | [下载][1.4-beta2-mac] | [下载][1.4-beta2-linux] | Win: 30ba711637a7826f818ef11b45461ad76f63067d <br/> Mac: 29a17be0d7dcd7e0271acea1f3fad0a357fcd916 <br/>Linux: 03725ca59e3b4b0ab13ab29bf723c1d77087a3ed | [查看][1.4-beta2-sha1]  |
-|  1.4 Beta | [下载][1.4-beta-win] | [下载][1.4-beta-mac] | [下载][1.4-beta-linux] | Win: db741cff551c6ef88f2282e9f011d02f4a0641ff <br/> Mac:  7e54e67a0cef430f7d9675d106f6ab5a3d6c24d1 <br/> Linux: 660051f68c57e6cd9c9175894e1ac17f4410805d |  [查看][1.4-beta-sha1] |
-|  1.4 Preview 3 | [下载][1.4-p3-win] | [下载][1.4-p3-mac] | [下载][1.4-p3-linux] | Win: 0a312b3c49af0bd13a83c55bf4f59a135c436d01 <br/> Mac: 89d177cc025d486db47dda1aae5e2d7848e4c2ec <br/> Linux: 0c71ac09574f29c8accee52b7fef2073c78c1d61 | [查看][1.4-p3-sha1]  |
-|  1.4 Preview 2 | [下载][1.4-p2-win] | [下载][1.4-p2-mac] | [下载][1.4-p2-linux] | Win: 1e44e215ba27a29501e6eb986a239572d27fbe0f <br/> Mac: fea4bb6101f82aaaea6252aefb0049587822abb5 <br/> Linux:  084ed3f84290b8807a3a4f0aba6ac9abfe65e6ab | [查看][1.4-p2-sha1]  |
-|  1.4 Preview 1 | [下载][1.4-p1-win] | [下载][1.4-p1-mac] | [下载][1.4-p1-linux] | Win: e16a2827a340d610414b08e0ee9342d1404cf71b <br/> Mac:  057371941a085f78c2e62a5e06abf36a89624c32 <br/> Linux:  6e906c6c79e66440da2dd1b5c70477f564b64ef3 |  [查看][1.4-p1-sha1] |
-|  1.3.2 | [下载][1.3.2-win] | [下载][1.3.2-mac] | [下载][1.3.2-linux] | Win:  c7d39c529dd434489da9d086ff689d34dc791526 <br/> b5d1aaa000729c03a3cf980add79d1b93121c56d <br/> 3134f226b5f3c3f74d4fc2d9cff03a4458f01d69 <br/> Mac: 75b67eb15a34a152a40e7189484ab0ebc375b877 <br/> Linux: cf780413f8c8223eb348bd27c19a9c04b75eaeb2
-  | [查看][1.3.2-sha1]  |
-|  1.3.1 | [下载][1.3.1-win] | [下载][1.3.1-mac] | [下载][1.3.1-linux] | Win: 8cff590f2e08e339f8c2491b287a840ae87c7383 <br/> d70fb49d03db9dded19c891a92452601e39272f4 <br/> 3b4c4924cb9495e56db61ca0e8c8d2bf588c4b97 <br/> Mac:  9fc12b5657ff52c761b7e7c115feade2a9728386 <br/> 3c7f934f257ab09c1ea0d88a816ec83702171e75 <br/> Linux: 51e5f5de2b82883d87f85ee38cf7b7b8b2e7debf  | [查看][1.3.1-sha1]  |
+|  2.2 Preview1 | [下载][2.2-p1-win] | [下载][2.2-p1-mac] | [下载][2.2-p1-linux] | Win: d7d4f1d5c475af7e00c029a73a75ccbf18f7b3d0 <br/> Mac: 6bb5d556d61b455584a708b5e401fae2cb5fdb4f <br/> Linux: f1320e6adbc7206f07e9df6bed577dbbd4299752 |  [查看][2.2-p1-sha1] |
+|  2.1.1 正式版 | [下载][2.1.1-win] | [下载][2.1.1-mac] | [下载][2.1.1-linux] | Win: 6f7fcdc30800bd8b3fbd5a14c2b9857243144650 <br/> d8cb3968814b6155f4effe727baf23b18b9f8360 <br/> 9bec4905e40f0ac16ac7fde63a50f3fbc1eec4d9 <br/> Mac: 4a7ca7532a95c65ee59ed50193c0e976f0272472 <br/> Linux: 55d69ad2da0068d818718b26ba43550fbcbeb7e9 |  [查看][2.1.1-sha1] |
+|  2.1 正式版 | [下载][2.1-win] | [下载][2.1-mac] | [下载][2.1-linux] | Win: 9689ba415e5f09e2dcf5263ea302e7b1d98a8fc6 <br/> Mac: 8d28fcf2a3b502d60922b8624bfcfa4990c2fee8 <br/> Linux: 45dad9b76ad0506c354483aaa67ea0e2468d03a5 |  [查看][2.1-sha1] |
+|  2.0 正式版 | [下载][2.0-win] | [下载][2.0-mac] | [下载][2.0-linux] | Win: c556debf40de6b5d6f6d65d169a64398e3380183 <br/> 3e8c25bd7b7f3aa326f7b2a349c4d67c550d13ac <br/> 705c00f52b715d6a845c97979ced6f9b1b3f11c6 <br/> Mac: 0f3d53a08815c00912c13738abc79e82207b20ed <br/> Linux: b64070ee4ec4868e9dd942b56f76864634cb0c67 |  [查看][2.0-rc1-sha1] |
+|  2.1 Preview5 | [下载][2.1-p5-win] | [下载][2.1-p5-mac] | [下载][2.1-p5-linux] | Win: 02431e373847a786353cc17372e534c38dae09b3<br/> Mac: 006e7c9851494dce450071c1439de7a131a9df4b<br/> Linux:5313999f2885b673d58ba4b6462d68fd167ba831 |  [查看][2.1-p5-sha1] |
+|  2.1 Preview4 | [下载][2.1-p4-win] | [下载][2.1-p4-mac] | [下载][2.1-p4-linux] | Win: bf56a5bfca30d9270aaa5f06301ab133751307ad <br/> Mac: 9865381d46a1fdd3aa43a54c2274f762b9981e75 <br/> Linux: 5fcc6eced5f14687ff9b09465e9654cc3c840cd0 |  [查看][2.1-p4-sha1] |
+|  2.1 Preview3 | [下载][2.1-p3-win] | [下载][2.1-p3-mac] | [下载][2.1-p3-linux] | Win: 37f3eb187a92a6722c21e2aa1ef7d0624a169aa6 <br/> Mac: 952911e5bddd82b0bf87c10c1e8f9c726ad38920 <br/> Linux: 2fcef56cb22dbc87269c94d13ad50ab6005f50fa |  [查看][2.1-p3-sha1] |
+|  2.1 Preview1 | [下载][2.1-p1-win] | [下载][2.1-p1-mac] | [下载][2.1-p1-linux] | Win: 6c1e0e2e97b29de75987450051ce0d57bb6c8b63 <br/> Mac: 6f72df2f56b31d5ef27a482b0d198039715bcedf <br/> Linux: 7b7f936ff7eb6ef4c2446fc3406ccd09ccf2737a |  [查看][2.1-p1-sha1] |
+|  2.0 RC1 | [下载][2.0-rc1-win] | [下载][2.0-rc1-mac] | [下载][2.0-rc1-linux] | Win:12e2bd63142f5c28e0ee8f79c0a1378af4e4aec3 <br/> Mac:1b09c24d4cd68bd245aa08e2b07ccc8c35b7b4b4 <br/> Linux:25626153f742e976f7b11c6a1e8ef1e807ed4418 |  [查看][2.0-rc1-sha1] |
+|  2.0 Beta7 | [下载][2.0-beta7-win] | [下载][2.0-beta7-mac] | [下载][2.0-beta7-linux] | Win: e1cf6d8f586a25f83d2994896f65c185614baeb1 <br/> Mac: 56e178d8dfec8146d40a00c4818729645ee950f1 <br/> Linux: 17e432a9eb701e791365cedec9783a23f3a97fcd |  [查看][2.0-beta7-sha1] |
+|  2.0 Beta6 | [下载][2.0-beta6-win] | [下载][2.0-beta6-mac] | [下载][2.0-beta6-linux] | Win: 455fc9eb9ed071e4e12c94ad6918ce1c23c26ebb <br/> Mac: 2cf3f87ef0069c2cd008268750cdf90722bcf8ad <br/> Linux: f52a50286c10209b8a5d5f86464d850f761884aa |  [查看][2.0-beta6-sha1] |
+|  2.0 Beta5 | [下载][2.0-beta5-win] | [下载][2.0-beta5-mac] | [下载][2.0-beta5-linux] | Win: 5c2529de1d0b48ef67f286d54fcb2292726faa6e <br/> Mac: f3bf3bca5e02ccd9a7986d53543608401816ade3 <br/> Linux: f52a50286c10209b8a5d5f86464d850f761884aa |  [查看][2.0-beta5-sha1] |
+|  2.0 Beta4 | [下载][2.0-beta4-win] | [下载][2.0-beta4-mac] | [下载][2.0-beta4-linux] | Win: b6541e0d663913442b50db6e96d851e76184a0db <br/> Mac: 1337f0ed66b476ae92834672be7c5988bb4388dc<br/> Linux: 9dad1dd12b3520177c3940bc768c3918dcaa800b |  [查看][2.0-beta4-sha1] |
+|  2.0 Beta3 | [下载][2.0-beta3-win] | [下载][2.0-beta3-mac] | [下载][2.0-beta3-linux] | Win: 76c5881a06d28536d89853d2440313ad4faf353b <br/> Mac: 917728608b443f8d40215b9657e4096edf047c61 <br/> Linux: c38d8fb41c2ab00e4e79ca10a282aba947ab22db |  [查看][2.0-beta3-sha1] |
+|  2.0 Beta2 | [下载][2.0-beta2-win] | [下载][2.0-beta2-mac] | [下载][2.0-beta2-linux] | Win: fe6b5fef366817ba3bf486337bdcce6aa38aa8c3 <br/> Mac: e83c458d07eb00eb234e58e018da5561aead5f2d<br/> Linux: 1645ba163550e120191dc5603a9c47814a049669 |  [查看][2.0-beta2-sha1] |
+|  2.0 Beta | [下载][2.0-beta-win] | [下载][2.0-beta-mac] | [下载][2.0-beta-linux] | Win: 67be633371daa4507be2008570e1f64bb3097af9 <br/> Mac: 053f031e03e6700bfa74908eaf98055b4abd26f0 <br/> Linux: fc13499663e87d88c14198ee57d9fb9684a22aea |  [查看][2.0-beta-sha1] |
+|  2.0 Preview9 | [下载][2.0-p9-win] | [下载][2.0-p9-mac] | [下载][2.0-p9-linux] | Win:bdcdb2085555d847c5221965fd26457311e13987 <br/> Mac: ba297ddac2d9f7b0f0151add626cd506ddf15d41 <br/> Linux: 059bf5fc38c5358546198802243fdf03b42b8ba2 |  [查看][2.0-p9-sha1] |
+|  2.0 Preview8 | [下载][2.0-p8-win] | [下载][2.0-p8-mac] | [下载][2.0-p8-linux] | Win:85fe91041ca0e98563c2824df2cedf786901acb4 <br/> Mac:8e9c12cd0dfa2799aae266e3faef58f229fdea71 <br/> Linux:449be600646be7fa128b3d3b85771087c9138f4e |  [查看][2.0-p8-sha1] |
+|  2.0 Preview7 | [下载][2.0-p7-win] | [下载][2.0-p7-mac] | [下载][2.0-p7-linux] | Win:55cef34cc77b7c82aea7a475be06c055abeab3d6 <br/> Mac: ef77f5248e2bea4c7b5b30d7d0497307521d5d22 <br/> Linux: e3f7db8adaecdfce0ff54c41efb3a72dad1318ed |  [查看][2.0-p7-sha1] |
+|  2.0 Preview6 | [下载][2.0-p6-win] | [下载][2.0-p6-mac] | [下载][2.0-p6-linux] | Win:79405d5af063319b7d83b9f49ab7339599cf6006 <br/> Mac: 16a2882e7735b5bb5b640a64f2b02bb9f4688ad7 <br/> Linux: 66e143378ecc18769336fe4a77c1c803aea50b15 |  [查看][2.0-p6-sha1] |
+|  2.0 Preview5 | [下载][2.0-p5-win] | [下载][2.0-p5-mac] | [下载][2.0-p5-linux] | Win:33ad8732d64b177164627950fe083a7b9473385a <br/> Mac:6b29d32f9a0d2722166d3e4a685f916b2231a152 <br/> Linux:357af02b67e1278b3b2957d84725d0f58ad6e54e |  [查看][2.0-p5-sha1] |
+|  1.5.1 | [下载][1.5.1-win] | [下载][1.5.1-mac] | [下载][1.5.1-linux] | Win: 64882fb967f960f2142de239200104cdc9b4c75b <br/> Mac: 7ceb97e943836c11844e6f2dbedc9d374b3c2b19 <br/> Linux: b8460a2197abe26979d88e3b01b3c8bfd80a37db |  [查看][1.5.1-sha1] |
 
-[1.5-p2-win]:http://pan.baidu.com/s/1o6rKRxC
-[1.5-p2-mac]:http://pan.baidu.com/s/1eQsHgI2
-[1.5-p2-linux]:http://pan.baidu.com/s/1kTJBu3X
+[2.2-p1-win]:http://pan.baidu.com/s/1miwAhyK
+[2.2-p1-mac]:http://pan.baidu.com/s/1nuJs1Ot
+[2.2-p1-linux]:http://pan.baidu.com/s/1hsLKKEK
 
-[1.5-p1-sha1]:http://ww1.sinaimg.cn/large/8a41f469gw1excc7f1kgvj21do0ui49h.jpg
+[2.2-p1-sha1]:http://ww1.sinaimg.cn/large/8a41f469gw1f41pqopbbij20sc0lggsw.jpg
 
-[1.5-p1-win]:http://pan.baidu.com/s/1mg3tEnm
-[1.5-p1-mac]:http://pan.baidu.com/s/1hquEqLQ
-[1.5-p1-linux]:http://pan.baidu.com/s/1ntCfdn7
+[2.1.1-win]:http://pan.baidu.com/s/1i5O0q9J
+[2.1.1-mac]:http://pan.baidu.com/s/1mi4Hxfq
+[2.1.1-linux]:http://pan.baidu.com/s/1eRUvN3O
 
-[1.5-p1-sha1]:http://ww3.sinaimg.cn/large/8a41f469gw1ex285gx6hsj21ea0uctju.jpg
+[2.1.1-sha1]:http://ww2.sinaimg.cn/large/8a41f469jw1f3v72k3ywaj20r00ditev.jpg
 
-[1.4-win]:http://pan.baidu.com/s/1mg0BjMo
-[1.4-mac]:http://pan.baidu.com/s/1eQAWLZs
-[1.4-linux]:http://pan.baidu.com/s/1dDnsuA1
+[2.1-win]:http://pan.baidu.com/s/1nviuFSP
+[2.1-mac]:http://pan.baidu.com/s/1kUKcoWf
+[2.1-linux]:http://pan.baidu.com/s/1skHil8D
 
-[1.4-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1ewsvf0xsumj21ki15mnce.jpg
+[2.1-sha1]:http://ww3.sinaimg.cn/large/8a41f469jw1f3v71k8vdkj20ri0g744u.jpg
 
-[1.4-rc3-win]:http://pan.baidu.com/s/1kTKVYC3
-[1.4-rc3-mac]:http://pan.baidu.com/s/1pJ1QVZd
-[1.4-rc3-linux]:http://pan.baidu.com/s/1eQhQ7Hw
+[2.0-win]:http://pan.baidu.com/s/1cHlqma
+[2.0-mac]:http://pan.baidu.com/s/1c1MWB1e
+[2.0-linux]:http://pan.baidu.com/s/1i4OitY9
 
-[1.4-rc3-sha1]:http://ww2.sinaimg.cn/large/8a41f469jw1ewsw2mqv0xj21cw0uswpj.jpg
+[2.0-sha1]:http://ww2.sinaimg.cn/large/8a41f469jw1f2ps88nfxdj21fg0t2n6l.jpg
 
-[1.4-rc2-win]:http://pan.baidu.com/s/1kT1ZiuF
-[1.4-rc2-mac]:http://pan.baidu.com/s/1c0nuqY0
-[1.4-rc2-linux]:http://pan.baidu.com/s/1sjFugVz
+[2.1-p5-win]:http://pan.baidu.com/s/1pLzjMER
+[2.1-p5-mac]:http://pan.baidu.com/s/1kV6d751
+[2.1-p5-linux]:http://pan.baidu.com/s/1mi0BOW4
 
-[1.4-rc2-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1ewsvodjmlwj21dw0tw7eo.jpg
+[2.1-p5-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1f2om0ow1s2j21ec0w4akv.jpg
 
-[1.4-rc1-win]:http://pan.baidu.com/s/1dDi7zcX
-[1.4-rc1-mac]:http://pan.baidu.com/s/1ntCJpGX
-[1.4-rc1-linux]:http://pan.baidu.com/s/1dD2QkCx
+[2.1-p4-win]:http://pan.baidu.com/s/1miQtzhY
+[2.1-p4-mac]:http://pan.baidu.com/s/1nvQrytz
+[2.1-p4-linux]:http://pan.baidu.com/s/1hrCEkg0
 
-[1.4-rc1-sha1]:http://ww2.sinaimg.cn/large/8a41f469jw1ewbn2n3vlij21dm0tstiz.jpg
+[2.1-p4-sha1]:http://ww1.sinaimg.cn/large/8a41f469jw1f2bhyy7dv5j21es0u2h3t.jpg
 
-[1.4-beta4-win]:http://pan.baidu.com/s/1o65psmA
-[1.4-beta4-mac]:http://pan.baidu.com/s/1dDJeMtF
-[1.4-beta4-linux]:http://pan.baidu.com/s/1ntIO4Q1
+[2.1-p3-win]:http://pan.baidu.com/s/1kTRf8G3
+[2.1-p3-mac]:http://pan.baidu.com/s/1skdKxQX
+[2.1-p3-linux]:http://pan.baidu.com/s/1bfAQgm
 
-[1.4-beta4-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1ewbn0se5r1j21ck0tktjh.jpg
+[2.1-p3-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1f25w78f9hgj21fm0tgqe3.jpg
 
-[1.4-beta3-win]:http://pan.baidu.com/s/1qWQjExQ
-[1.4-beta3-mac]:http://pan.baidu.com/s/1eQlm5yi
-[1.4-beta3-linux]:http://pan.baidu.com/s/1jGH83e2
+[2.1-p1-win]:http://pan.baidu.com/s/1i3NHmPf
+[2.1-p1-mac]:http://pan.baidu.com/s/1i3NHmNb
+[2.1-p1-linux]:http://pan.baidu.com/s/1c1eMw7Y
 
-[1.4-beta3-sha1]:http://ww3.sinaimg.cn/large/8a41f469jw1ewbmozwnt4j21gm0tmgw6.jpg
+[2.1-p1-sha1]:http://ww4.sinaimg.cn/large/8a41f469gw1f1s3pp395yj21jq0uygx8.jpg
 
-[1.4-beta2-win]:http://pan.baidu.com/s/1gdg0lQr
-[1.4-beta2-mac]:http://pan.baidu.com/s/1eQqB9se
-[1.4-beta2-linux]:http://pan.baidu.com/s/1hqJDL8C
+[2.0-rc1-win]:http://pan.baidu.com/s/1mieWLkc
+[2.0-rc1-mac]:http://pan.baidu.com/s/1nuG8mNZ
+[2.0-rc1-linux]:http://pan.baidu.com/s/1pK7GEpX
 
-[1.4-beta2-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1ew9e0gtyntj21f80twqe0.jpg
+[2.0-rc1-sha1]:http://ww1.sinaimg.cn/large/8a41f469jw1f2fwwiu7a9j21ei0tmn85.jpg
 
-[1.4-beta-win]:http://pan.baidu.com/s/1dDqDuEl
-[1.4-beta-mac]:http://pan.baidu.com/s/1hqwCRKo
-[1.4-beta-linux]:http://pan.baidu.com/s/1pJKfmVx
+[2.0-beta7-win]:http://pan.baidu.com/s/1kUjwt4j
+[2.0-beta7-mac]:http://pan.baidu.com/s/1qWZIM1A
+[2.0-beta7-linux]:http://pan.baidu.com/s/1eRbyTs2
 
-[1.4-beta-sha1]:http://ww2.sinaimg.cn/large/8a41f469jw1ew9dxlylocj21dm0to13p.jpg
+[2.0-beta7-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1f25w8rbsquj21dw0uk7f4.jpg
 
-[1.4-p3-win]:http://pan.baidu.com/s/1mg1UbRM
-[1.4-p3-mac]:http://pan.baidu.com/s/1dDhj81j
-[1.4-p3-linux]:http://pan.baidu.com/s/1eQEr6q2
+[2.0-beta6-win]:http://pan.baidu.com/s/1sjUix6P
+[2.0-beta6-mac]:http://pan.baidu.com/s/1pKaseTX
+[2.0-beta6-linux]:http://pan.baidu.com/s/1o7dHRpK
 
-[1.4-p3-sha1]:http://ww1.sinaimg.cn/large/8a41f469jw1ew9cq9msraj21h80uoqe8.jpg
+[2.0-beta6-sha1]:http://ww4.sinaimg.cn/large/8a41f469gw1f1ff3exsdxj21dm0v249c.jpg
 
-[1.4-p2-win]:http://pan.baidu.com/s/1eQm6690
-[1.4-p2-mac]:http://pan.baidu.com/s/1dDBBfYp
-[1.4-p2-linux]:http://pan.baidu.com/s/1dD99jpf
+[2.0-beta5-win]:http://pan.baidu.com/s/1jH2Owv0
+[2.0-beta5-mac]:http://pan.baidu.com/s/1nu2cmpV
+[2.0-beta5-linux]:http://pan.baidu.com/s/1pK1YlDp
 
-[1.4-p2-sha1]:http://ww2.sinaimg.cn/large/8a41f469jw1ew9b2lxcfqj21kw0taaip.jpg
+[2.0-beta5-sha1]:http://ww3.sinaimg.cn/large/8a41f469gw1f12s7rdh3pj21f20uqwpp.jpg
 
-[1.4-p1-win]:http://pan.baidu.com/s/1i3fEP8p
-[1.4-p1-mac]:http://pan.baidu.com/s/1o6kovdK
-[1.4-p1-linux]:http://pan.baidu.com/s/1pJ5ldl5
+[2.0-beta4-win]:http://pan.baidu.com/s/1mgWpSsK
+[2.0-beta4-mac]:http://pan.baidu.com/s/1pKvSi2R
+[2.0-beta4-linux]:http://pan.baidu.com/s/1gebjDEb
 
-[1.4-p1-sha1]:http://ww2.sinaimg.cn/large/8a41f469jw1ew9chgvb3nj21kw0xjwqw.jpg
+[2.0-beta4-sha1]:http://ww4.sinaimg.cn/large/8a41f469gw1f12s7b2t3uj21ds0tkgwa.jpg
 
-[1.3.2-win]:http://pan.baidu.com/s/1pJ7n7WR
-[1.3.2-mac]:http://pan.baidu.com/s/1sjomEJz
-[1.3.2-linux]:http://pan.baidu.com/s/1ntDxrVb
+[2.0-beta3-win]:http://pan.baidu.com/s/1jHm8U8m
+[2.0-beta3-mac]:http://pan.baidu.com/s/1qXrMtHE
+[2.0-beta3-linux]:http://pan.baidu.com/s/1XqkLC
 
-[1.3.2-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1ew9cddat55j21kw0xmk2v.jpg
+[2.0-beta3-sha1]:http://ww4.sinaimg.cn/large/8a41f469gw1f12s6sz81cj21he0t849q.jpg
 
-[1.3.1-win]:http://pan.baidu.com/s/1ntCamKx
-[1.3.1-mac]:http://pan.baidu.com/s/1i3KVNLF
-[1.3.1-linux]:http://pan.baidu.com/s/1o6wzdBO
+[2.0-beta2-win]:http://pan.baidu.com/s/1bgJ0Ns
+[2.0-beta2-mac]:http://pan.baidu.com/s/1eQLCJce
+[2.0-beta2-linux]:http://pan.baidu.com/s/1jHoAJQ2
 
-[1.3.1-sha1]:http://ww3.sinaimg.cn/large/8a41f469jw1ew9c9nk7j7j21k2160tnv.jpg
+[2.0-beta2-sha1]:http://ww1.sinaimg.cn/large/8a41f469gw1f12rm80ab3j21fc0vwwpe.jpg
+
+
+[2.0-beta-win]:http://pan.baidu.com/s/1eRqeQn4
+[2.0-beta-mac]:http://pan.baidu.com/s/1qWWNAJa
+[2.0-beta-linux]:http://pan.baidu.com/s/1qXfBjkg
+
+[2.0-beta-sha1]:http://ww2.sinaimg.cn/large/8a41f469gw1f12rktt0drj21fc0vwwpe.jpg
+
+[2.0-p9-win]:http://pan.baidu.com/s/1qXeOB9a
+[2.0-p9-mac]:http://pan.baidu.com/s/1ge11Lzt
+[2.0-p9-linux]:http://pan.baidu.com/s/1mhgYDmS
+
+[2.0-p9-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1f0jvun0uznj21de0tqtjv.jpg
+
+[2.0-p8-win]:http://pan.baidu.com/s/1i4xY0Sl
+[2.0-p8-mac]:http://pan.baidu.com/s/1sk7R77v
+[2.0-p8-linux]:http://pan.baidu.com/s/1bjt8Lo
+
+[2.0-p8-sha1]:http://ww4.sinaimg.cn/large/8a41f469gw1f0fnhwrt2aj21i00t8k2d.jpg
+
+[2.0-p7-win]:http://pan.baidu.com/s/1RaPB4
+[2.0-p7-mac]:http://pan.baidu.com/s/1bodQcQ7
+[2.0-p7-linux]:http://pan.baidu.com/s/1i4wAAhB
+
+[2.0-p7-sha1]:http://ww4.sinaimg.cn/large/8a41f469gw1f0ak4s77l7j21ds0usalj.jpg
+
+[2.0-p6-win]:http://pan.baidu.com/s/1o7vJ43C
+[2.0-p6-mac]:http://pan.baidu.com/s/1bolq9f5
+[2.0-p6-linux]:http://pan.baidu.com/s/1mh3pcfe
+
+[2.0-p6-sha1]:http://ww1.sinaimg.cn/large/8a41f469gw1f07jhwqirnj21f80tsqlm.jpg
+
+[2.0-p5-win]:http://pan.baidu.com/s/1qXcagVU
+[2.0-p5-mac]:http://pan.baidu.com/s/1hrmzL3m
+[2.0-p5-linux]:http://pan.baidu.com/s/1gdUQPcZ
+
+[2.0-p5-sha1]:http://ww2.sinaimg.cn/large/8a41f469jw1eyp9aq5a5oj21dq0s4qj3.jpg
+
+[1.5.1-win]:http://pan.baidu.com/s/1nuhv3qp
+[1.5.1-mac]:http://pan.baidu.com/s/1c0YQvGs
+[1.5.1-linux]:http://pan.baidu.com/s/1sjTalbv
+
+[1.5.1-sha1]:http://ww4.sinaimg.cn/large/8a41f469jw1eyp9bc78v9j21ck0rwwuh.jpg
 
 ####SDK Tools
 
 | 版本号 	     | Windows             |          Mac OSX        |          Linux         |       SHA-1校验码     |       官方SHA-1校验码截图     |
 |:----------|:-----------:|:------|:----------:|:------|:----------:|
+| 24.4.1 | [installer_r24.4.1-windows.exe][installer_r24.4.1-win] [android-sdk_r24.4.1-windows.zip][android-sdk_r24.4.1-win] | [android-sdk_r24.4.1-macosx.zip][android-sdk_r24.4.1-mac] | [android-sdk_r24.4.1-linux.tgz][android-sdk_r24.4.1-linux] | Win:f9b59d72413649d31e633207e31f456443e7ea0b <br/>66b6a6433053c152b22bf8cab19c0f3fef4eba49 <br/> Mac: 85a9cccb0b1f9e6f1f616335c5f07107553840cd<br/> Linux: 725bb360f0f7d04eaccff5a2d57abdd49061326d| [查看][sdk-tools-24.4.1] |
 | 24.3.4 | [installer_r24.3.4-windows.exe][installer_r24.3.4-win] [android-sdk_r24.3.4-windows.zip][android-sdk_r24.3.4-win] | [android-sdk_r24.3.4-macosx.zip][android-sdk_r24.3.4-mac] | [android-sdk_r24.3.4-linux.tgz][android-sdk_r24.3.4-linux] | Win: 094dd45f98a31f839feae898b48f23704f2878dd <br/> 4a8718fb4a2bf2128d34b92f23ddd79fc65839e7 <br/> Mac: 128f10fba668ea490cc94a08e505a48a608879b9 <br/> Linux: fb293d7bca42e05580be56b1adc22055d46603dd | [查看][sdk-tools-24.3.4] |
 
+[installer_r24.4.1-win]:http://pan.baidu.com/s/1i5xug3j
+[android-sdk_r24.4.1-win]:http://pan.baidu.com/s/1kVjIPCV
+
+[android-sdk_r24.4.1-mac]:http://pan.baidu.com/s/1nuWN7V7
+
+[android-sdk_r24.4.1-linux]:http://pan.baidu.com/s/1o8iqMQQ
+
+[sdk-tools-24.4.1]:http://ww2.sinaimg.cn/large/8a41f469jw1f2ng43mgnhj21kw0fmwhi.jpg
 
 [installer_r24.3.4-win]:http://pan.baidu.com/s/1eQppdPC
 [android-sdk_r24.3.4-win]:http://pan.baidu.com/s/1mg08f2K
@@ -548,8 +606,9 @@ AndroidDevTools
 ####NDK
 C/C++开发Android应用工具包,`Linux/Mac OS X 下NDK r10c`的安装方法请戳 [这里](install-method-url)
 
-| 版本号 	  | Windows              |          Mac OSX        |          Linux         |       SHA-1校验码     |       官方SHA-1校验码截图     |
+| 版本号 	  | Windows              |          Mac OSX        |          Linux         |       MD5/SHA-1校验码     |       官方SHA-1校验码截图     |
 |:----------|:-------------:|:------:|:----------:|:------|:----------:|
+| ndk-r11b | [32位][r11b-win-32] [64位][r11b-win-64] | [64位][r11b-mac-64] | [64位][r11b-linux-64]  | Win:b42da395440cc1c5dc4eeeb383679331addeb3ea <br/> 480eca1b29cfe73a5b35374730e6a82ca65c2aa6 <br/> Mac: c64fb355fec4da57d329ab45bf0aa29a1aec58dc <br/> Linux: cf0658956945c81d3d3fad5f9a24fa062d4c9d41  | [查看][ndk-r11b-sha1] |
 | ndk-r10e | [32位][r10e-win-32] [64位][r10e-win-64] | [64位][r10e-mac-64] | [32位][r10e-linux-32] [64位][r10e-linux-64]  | Win: 1a82445baaf62aec3a46386ab1e5772c <br/>  8412bb4991a95e08fda50b5a44d95df7 <br/> Mac: 2cb8893a5701603519d38a7e04c50e81 <br/> Linux: c3edd3273029da1cbd2f62c48249e978 <br/> 19af543b068bdb7f27787c2bc69aba7f | [查看][ndk-r10e-sha1] |
 
 
@@ -557,6 +616,16 @@ C/C++开发Android应用工具包,`Linux/Mac OS X 下NDK r10c`的安装方法请
 |:----------|:-------------|
 | r10 STL debug info | [android-ndk-r10-cxx-stl-libs-with-debug-info.zip](http://pan.baidu.com/s/1xWgUE) | 
 | r9 STL debug info | [android-ndk-r9-cxx-stl-libs-with-debug-info.zip](http://pan.baidu.com/s/1c0EMn8O) |
+
+
+[r11b-win-32]:http://pan.baidu.com/s/1JWvUI
+[r11b-win-64]:http://pan.baidu.com/s/1pKlqcZL
+
+[r11b-mac-64]:http://pan.baidu.com/s/1pKi8yJT
+
+[r11b-linux-64]:http://pan.baidu.com/s/1c0YLv00
+
+[ndk-r11b-sha1]:http://ww2.sinaimg.cn/large/8a41f469gw1f25wwym8t6j21kw0rxwja.jpg
 
 
 [r10e-win-32]:http://pan.baidu.com/s/1jG7Yacm
@@ -586,21 +655,28 @@ C/C++开发Android应用工具包,`Linux/Mac OS X 下NDK r10c`的安装方法请
 
 | 版本号| Windows | Mac OSX  | Linux |
 |:----------:|:-------------:|:------:|:----------:|
-|  1.8 u5  | [32位][1.8u5-win-32] [64位][1.8u5-win-64] | [64位][1.8u5-mac-64] | [32位][1.8u5-linux-32] [64位][1.8u5-linux-64] |
-|  1.7 u60 | [32位][1.7-win-32] [64位][1.7-win-64] | [64位][1.7-mac-64] | [32位][1.7-linux-32] [64位][1.7-linux-64] |
+|  1.8 u77  | [32位][1.8u77-win-32] [64位][1.8u77-win-64] | [64位][1.8u77-mac-64] | [32位][1.8u77-linux-32] [64位][1.8u77-linux-64] |
+|  1.8 u74  | [32位][1.8u74-win-32] [64位][1.8u74-win-64] | [64位][1.8u74-mac-64] | [32位][1.8u74-linux-32] [64位][1.8u74-linux-64] |
+|  1.7 u80 | [32位][1.7-win-32] [64位][1.7-win-64] | [64位][1.7-mac-64] | [32位][1.7-linux-32] [64位][1.7-linux-64] |
 |  1.6 u45 | [32位][1.6-win-32] [64位][1.6-win-64] | [64位][1.6-mac-64] | [32位][1.6-linux-32] [64位][1.6-linux-64] |
 
-[1.8u5-win-32]:http://pan.baidu.com/s/1bn2CVIB
-[1.8u5-win-64]:http://pan.baidu.com/s/1eQtJyGq
-[1.8u5-mac-64]:http://pan.baidu.com/s/1pJkD78R
-[1.8u5-linux-32]:http://pan.baidu.com/s/1o64s0pc
-[1.8u5-linux-64]:http://pan.baidu.com/s/1jG3KBjg
+[1.8u77-win-32]:http://pan.baidu.com/s/1hsFDbBu
+[1.8u77-win-64]:http://pan.baidu.com/s/1kUJuzH1
+[1.8u77-mac-64]:http://pan.baidu.com/s/1bRetFw
+[1.8u77-linux-32]:http://pan.baidu.com/s/1i4YX7VZ
+[1.8u77-linux-64]:http://pan.baidu.com/s/1slBWTIH
 
-[1.7-win-32]:http://pan.baidu.com/s/1nt5a3jj
-[1.7-win-64]:http://pan.baidu.com/s/1o61AAHc
-[1.7-mac-64]:http://pan.baidu.com/s/1nt0qGfn
-[1.7-linux-32]:http://pan.baidu.com/s/1eQd4wVK
-[1.7-linux-64]:http://pan.baidu.com/s/1jGzGQLw
+[1.8u74-win-32]:http://pan.baidu.com/s/1c1w1TCk
+[1.8u74-win-64]:http://pan.baidu.com/s/1nu3BdVj
+[1.8u74-mac-64]:http://pan.baidu.com/s/1c0Tv5Pe
+[1.8u74-linux-32]:http://pan.baidu.com/s/1gecIYxP
+[1.8u74-linux-64]:http://pan.baidu.com/s/1hrtBXkg
+
+[1.7-win-32]:http://pan.baidu.com/s/1bfAT58
+[1.7-win-64]:http://pan.baidu.com/s/1gewvEAR
+[1.7-mac-64]:http://pan.baidu.com/s/1hrl4x3u
+[1.7-linux-32]:http://pan.baidu.com/s/1c1pG2Fu
+[1.7-linux-64]:http://pan.baidu.com/s/1hrecZ9U
 
 [1.6-win-32]:http://pan.baidu.com/s/1o67aooM
 [1.6-win-64]:http://pan.baidu.com/s/1dDmtSZJ
@@ -609,7 +685,7 @@ C/C++开发Android应用工具包,`Linux/Mac OS X 下NDK r10c`的安装方法请
 [1.6-linux-64]:http://pan.baidu.com/s/1dDck3O9
 
 
-<!--####ADT Bundle
+####ADT Bundle
 ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，只需安装好Jdk即可开始开发，推荐初学者下载ADT Bundle，不用再折腾开发环境。
 
 | 版本号  | Windows                |      Mac OSX       |          Linux         |
@@ -638,18 +714,23 @@ ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，
 
 |    版本号   |
 |:----------:|
+|[ADT-23.0.7](http://pan.baidu.com/s/1bngDm6V)|
 |[ADT-23.0.6](http://pan.baidu.com/s/1jGraNEQ)|
 |[ADT-23.0.4](http://pan.baidu.com/s/1i39UM7j)|
 |[ADT-23.0.3](http://pan.baidu.com/s/1hqJyLTi)|
 |[ADT-23.0.2](http://pan.baidu.com/s/1bnGkEvX)|
 |[ADT-23.0.0](http://pan.baidu.com/s/1sjArX7J)|
 |[ADT-22.6.3](http://pan.baidu.com/s/1jGMb5yQ)|
-|[AdT-22.6.1](http://pan.baidu.com/s/1pJ185Rl)|-->
+|[AdT-22.6.1](http://pan.baidu.com/s/1pJ185Rl)|
 
 ####Gradle
 
 |    版本号  |
 |:----------|
+| [gradle-2.12-all.zip](http://pan.baidu.com/s/1gdLhXa7) |
+| [gradle-2.11-all.zip](http://pan.baidu.com/s/1gewXkzx) |
+| [gradle-2.10-all.zip](http://pan.baidu.com/s/1mhrKIF2) |
+| [gradle-2.9-all.zip](http://pan.baidu.com/s/1eRll1Ns) |
 | [gradle-2.8-all.zip](http://pan.baidu.com/s/1qW25Ndy) |
 | [gradle-2.7-all.zip](http://pan.baidu.com/s/1c0g9D5m) |
 | [gradle-2.6-all.zip](http://pan.baidu.com/s/1mg8JAbA) |
@@ -667,9 +748,13 @@ ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，
 | [gradle-1.8-all.zip](http://pan.baidu.com/s/1o6Npqqe)  |
 | [gradle-1.7-all.zip](http://pan.baidu.com/s/1pJnvyWz)  |
 
-#### Gradle Dependencies Configuration Generator
+#### Android Gradle Plugin DSL 在线文档
 
-[Gradle, please](http://gradleplease.appspot.com)
+[http://google.github.io/android-gradle-dsl/](http://google.github.io/android-gradle-dsl/)
+
+#### Gradle Dependencies Configuration Generator（需要梯子）
+
+[http://gradleplease.appspot.com](http://gradleplease.appspot.com)
 
 #### 版本控制工具
 
@@ -723,6 +808,9 @@ ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，
 | Android逆向助手 					|Android逆向助手是一功能强大的逆向辅助软件。<br/>该软件可以帮助用户来进行apk反编译打包签名；<br/>dex/jar互转替换提取修复；so反编译；<br/>xml、txt加密；字符串编码等等，操作简单<br/>，只需要直接将文件拖放到源和目标文件。 | [下载][Android逆向助手]               |            [使用指南][Android逆向助手-guide]    |
 | Android Killer 			|Android Killer 是一款可视化的安卓应用逆向工具，<br/>集Apk反编译、Apk打包、Apk签名，编码互转，<br/>ADB通信（应用安装-卸载-运行-设备文件管理）<br/>等特色功能于一 身，支持logcat日志输出，<br/>语法高亮，基于关键字（支持单行代码或多行代码段）<br/>项目内搜索，可自定义外部工具；吸收融汇多种工具功能与特点，<br/>打造一站 式逆向工具操作体验，大大简化了用户在<br/>安卓应用/游戏修改过程中的各类繁琐工作。| [下载1][Android-Killer-pd521]<br/>[下载2][Android-Killer-baidu]|[使用指南][Android-Killer-guide]    |
 | DexExtractor |android dex extractor ，anti-shell，android 脱壳。| [下载][DexExtractor]                |               |
+| jadx |Dex to Java decompiler| [下载][jadx]                |               |
+| android-classyshark | a handy Android and Java executables viewer | [下载][android-classyshark]                |               |
+| ShakaApktool |  | [下载][ShakaApktool]                |               |
 
 [JEB]:http://www.android-decompiler.com/index.php
 [Virtuous Ten Studio]:http://virtuous-ten-studio.com
@@ -735,7 +823,7 @@ ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，
 [smali]:https://code.google.com/p/smali/
 [AXMLPrinter2]:https://android4me.googlecode.com/files/AXMLPrinter2.jar
 [JAD Java Decompiler]:http://varaneckas.com/jad/
-[JD-GUI Decompiler]:http://
+[JD-GUI Decompiler]:https://github.com/java-decompiler/jd-gui/releases/tag/v1.4.0
 [XJad V2.2]:http://files.cnblogs.com/arix04/XJad_V2.2.rar
 [Android APK Decompiler]:http://www.decompileandroid.com/
 [JADX]:https://github.com/skylot/jadx
@@ -746,7 +834,9 @@ ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，
 [Android-Killer-baidu]:http://pan.baidu.com/share/home?uk=4099707276#category/type=6
 [Enjarify]:https://github.com/google/enjarify
 [DexExtractor]:https://github.com/bunnyblue/DexExtractor
-
+[jadx]:https://github.com/skylot/jadx
+[android-classyshark]:https://github.com/google/android-classyshark
+[ShakaApktool]:https://github.com/rover12421/ShakaApktool
 
 [SmaliViewer-guide]:http://blog.avlyun.com/show/《sv用户指南》/
 [Android逆向助手-guide]:http://www.sanwho.com/620.html
@@ -1234,11 +1324,11 @@ ADT Bundle包含了Eclipse、ADT插件和SDK Tools，是已经集成好的IDE，
 地址: [Android Developers 国内镜像站](http://androiddoc.qiniudn.com/)
 
 #### Android Api中文版
-地址：[http://wikidroid.sinaapp.com/Android中文API](http://wikidroid.sinaapp.com/Android中文API))
+地址：[http://www.embeddedlinux.org.cn/androidapi/](http://www.embeddedlinux.org.cn/androidapi/)
 
 ####Android API指南中文版
 
-地址：[http://wiki.eoeandroid.com/Android_API_Guides](http://wiki.eoeandroid.com/Android_API_Guides)
+地址：[http://api.apkbus.com/guide](http://api.apkbus.com/guide)
 
 #### Android Proguard混淆配置指南
 
